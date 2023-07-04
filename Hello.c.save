@@ -1,0 +1,20 @@
+#include <stdio.h>
+      
+        int main() {
+            const int num1 = 10;
+            const int num2 = 3;
+          
+            // 1. Print the division using int placeholder, ignoring anything after the decimal
+            int resultInt = num1 / num2;
+            printf("Division without casting using int placeholder: %d\n", resultInt);
+          
+            // 2. Print the division using double placeholder without casting (warning expected)
+            int resultDoubleNoCast = num1 / num2;
+            printf("Division without casting fl// this code is written by Pedram 
+#include <stdio.h>
+// the main function 
+int main(void) { 
+    /* calling "printf" function 
+    the "defination" is included in "stdio" library */
+     printf("Hello , McMaster !\n");
+}
